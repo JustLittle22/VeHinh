@@ -1,5 +1,5 @@
-Do_F = int(input("Nhập vào nhiệt độ F cần chuyển đổi:"))
+Do_C = int(input("Nhập vào nhiệt độ C cần chuyển đổi:"))
 
-Do_C = int((18*Do_F)/10 + 32)
+Do_F = int((18*Do_C)/10 + 32)
 
-print("Độ C đã được chuyển thành:", Do_C)
+print("Độ C đã được chuyển thành:", Do_F)
