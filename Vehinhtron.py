@@ -1,4 +1,3 @@
-from tkinter import ANCHOR
 import turtle
 
 anh_screen = turtle.Screen()
